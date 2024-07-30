@@ -59,8 +59,15 @@
 
 .result__video-container {
   position: relative;
+  width: 711px;
+  height: 386px;
+  margin-top: 211px;
 }
 
 .content__list {
   position: relative;
+  overflow: auto;
+  overflow-x:hidden;
+  height: 298px;
+  margin-top: 25px;
 }
