@@ -234,7 +234,7 @@ input {
   cursor: pointer;
 }
 
-.search-form__pseudo-checkbox::after{
+.search-form__pseudo-checkbox::after {
   content: "";
   background-color: white;
   display: block;
