@@ -145,7 +145,7 @@ input {
 }
 
 .button:focus-visible {
-  outline: white double 2px;
+  outline: white solid 1px;
 }
 
 .button:hover {
@@ -284,4 +284,18 @@ input {
 
 .content__card-link_current {
   background-color: #545050;
+}
+
+.result__video-container {
+  position: relative;
+  width: 711px;
+  height: 386px;
+  margin-top: 211px;
+}
+
+.content__list {
+  position: relative;
+  overflow: auto;
+  height: 298px;
+  margin-top: 25px;
 }
